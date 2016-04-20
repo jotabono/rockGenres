@@ -39,7 +39,7 @@ INSERT INTO `genre` (`name`) VALUES
 ('Dark metal'),
 ('Darkwave'),
 ('D-beat'),
-('Death 'n' roll'),
+("Death 'n' roll"),
 ('Deathcore'),
 ('Death/doom'),
 ('Deathgrind'),
